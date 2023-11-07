@@ -1,5 +1,6 @@
 # Security-Audit
 Botium Toys - Hypothethical Security Audit
+
 Scope and goals of the audit
 
 Scope: The scope is defined as the entire security program at Botium Toys. This means
