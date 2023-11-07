@@ -1,5 +1,5 @@
 # Security-Audit
-Botium Toys - Hypothethical Security Audit
+Botium Toys - Hypothetical Security Audit
 
 Scope and goals of the audit
 
